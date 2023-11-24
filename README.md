@@ -1,0 +1,1 @@
+# devChallenges.Minimal-Blog-Card
